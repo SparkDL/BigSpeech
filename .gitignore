@@ -3,3 +3,5 @@
 lm.binary
 output_graph.pb
 target/
+*.class
+*.log
