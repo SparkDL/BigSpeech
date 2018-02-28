@@ -2,3 +2,4 @@
 .idea
 lm.binary
 output_graph.pb
+target/
