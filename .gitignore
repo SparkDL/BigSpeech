@@ -1,3 +1,4 @@
+*.bigdl
 .DS_Store
 .idea
 lm.binary
